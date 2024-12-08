@@ -6,7 +6,7 @@ void main() {
   if (number % 2 != 0) {
     print("$number  is odd number");
   } else {
-    print("$number is even number");
-    
+    print("$number is not odd number");
+
   }
 }
